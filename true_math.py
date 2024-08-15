@@ -1,3 +1,4 @@
+# module_4_1
 from math import inf
 def divide():
     first = int(input('Введите делитель: '))

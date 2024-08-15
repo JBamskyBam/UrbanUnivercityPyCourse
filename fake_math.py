@@ -1,4 +1,4 @@
-
+# module_4_1
 def divide():
     first = int(input('Введите делитель: '))
     second = int(input('Введите знаменатель: '))
